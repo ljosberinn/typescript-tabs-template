@@ -2,6 +2,8 @@
 
 ![(https://github.com/ljosberinn/typescript-tabs-template/blob/master/demo.gif)](https://github.com/ljosberinn/typescript-tabs-template/blob/master/demo.gif)
 
+[Live preview](https://htmlpreview.github.io/?https://github.com/ljosberinn/typescript-tabs-template/blob/master/dist/index.html)
+
 # Get started
 
 ```sh
