@@ -1,0 +1,28 @@
+.tabs-nav {
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  div {
+    text-align: center;
+    cursor: pointer;
+  }
+}
+
+.tabs-content {
+  div {
+    text-align: center;
+  }
+  > div:not(.active-tab) {
+    display: none !important;
+  }
+}
+
+.tabs-nav > div:not(.active-tab),
+.tabs-content > div:not(.active-tab) {
+  background-color: #2d5e82;
+  color: white;
+  transition: background-color ease-in-out 250ms;
+}
+
+.tabs-nav > div:not(.active-tab):hover {
+  background-color: #487da5;
+}

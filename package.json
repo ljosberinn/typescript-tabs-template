@@ -1,0 +1,19 @@
+{
+  "name": "typescript-tabs-template",
+  "version": "1.0.0",
+  "author": "Gerrit Alex <admin@gerritalex.de>",
+  "description": "simple typescript tabs implementation",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.9.2",
+    "node-sass": "^4.9.0",
+    "parcel": "^1.9.3",
+    "stylelint-config-recommended": "^2.1.0"
+  }
+}
