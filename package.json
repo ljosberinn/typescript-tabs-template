@@ -9,9 +9,8 @@
   },
   "keywords": [],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": { "typescript": "^2.9.2" },
   "devDependencies": {
-    "typescript": "^2.9.2",
     "node-sass": "^4.9.0",
     "parcel": "^1.9.3",
     "stylelint-config-recommended": "^2.1.0"
