@@ -14,7 +14,7 @@ npm install
 
 # Adjustments
 
-Default triggered class: `active-tab` (for adjustments, change `src/ts/tabs.ts` and `src/scss.tabs.scss`
+Default triggered class: `active-tab` (for adjustments, change `src/ts/tabs.ts` and `src/scss.tabs.scss`)
 
 # Dependencies
 - Typescript `^2.9.2`
